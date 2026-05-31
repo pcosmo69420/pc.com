@@ -1,0 +1,1 @@
+Place project images in this folder (e.g. project1.jpg). These are gitignored by default in .gitignore; remove if you want images tracked.

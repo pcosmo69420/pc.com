@@ -1,0 +1,32 @@
+{
+  "sahelian_heatbreaker": {
+    "overview": "The Sahelian HeatBreaker is an architectural and environmental response to extreme heat in the Sahel. Its objective includes addressing vitamin D deficiency by enabling safe daylight exposure while converting harsh climate phenomena like sandstorms into usable cooling systems.",
+    "materials": "Earth based materials such as adobe, acacia wood, doum palm leaf, and thatch are used for thermal effectiveness and local sourcing.",
+    "daylight_captures": "A hierarchy of daylight captures: primary meshed courtyard for most vitamin D exposure; secondary tightly woven thatch meshes for weaker sun exposure; tertiary doum palm weave that shades but still allows vitamin D absorption nearby.",
+    "form": "Biomorphic geometry with curves and folds redistributes solar load to reduce interior temperature, organized around a central meshed courtyard and an aerodynamic ramp to resist sandstorm erosion.",
+    "wall_system": "Double layer wall inspired by trombe principles: outer layer absorbs heat, air gap allows controlled convection, inner perforated wall vents hot air away to cool the interior layer.",
+    "ventilation": "Cross ventilation aligned with prevailing Harmattan winds from the northeast. Exterior ramp vents include sand filtration pipes to reduce dust ingress. Bernoulli principles are used to accelerate airflow in interior rooms.",
+    "scalability": "Modular system intended for cluster configurations; spacing and form create accelerated airflow between units using Bernoulli principles.",
+    "sustainability": "Design emphasizes local resources and reinterpretation of traditional approaches rather than depending on external technologies; focuses on longevity and local adaptability."
+  },
+  "hikers_shelter": {
+    "brief": "Small overnight shelter for two hikers on the Bayou Trail providing space for resting, cleaning, and eating. Designed as a beacon for lost hikers.",
+    "materials": "Locally sourced clay, sandstone, and woodash; material has holes to expel light and smoke.",
+    "features": "Interior steel mesh keeps out bugs and animals. Raised approximately four feet to avoid floodwater. Oriented north-south to catch cross ventilation and morning sun via staggered roofing. Roman style impluvium captures rain through top mesh and sloped halves.",
+    "function": "Biomorphic shape expels light; smoke acts as a beacon; open meshes allow ventilation while a steel mesh provides protection."
+  },
+  "ikap": {
+    "overview": "Iklaina is a Late Bronze Age city (ca. 1600-1100 BC) excavated by teams including the Athens Archaeological Society and the University of Missouri St. Louis under Michael Cosmopoulos. Finds include a Mycenaean palace, Cyclopean terrace walls, murals, sophisticated drainage, and a Linear B clay tablet dated ca. 1450-1350 BC.",
+    "archaeology": "Excavations since 2006 revealed residential buildings from Mycenaean to Hellenistic periods, a Cyclopean Terrace supporting a megaron type complex, and over 2500 fragments of wall paintings discovered in 2009. A Linear B tablet fragment dates to LH IIB-IIIA1 (~1450-1400 BC). An open-air sanctuary and a large rectangular Building X with a paved processional street were found in 2012. Evidence suggests Iklaina was a powerful Mycenaean center possibly subordinate to Ano Englianos later, and it was finally destroyed around 1200 BC."
+  },
+  "kalamos_project": {
+    "overview": "A rural house renovation project in Greece where Peter will create renderings, floor plans, and sections based on provided floor plans."
+  },
+  "mujassam_watan": {
+    "overview": "An international urban sculpture competition organized by Buildner and the Mujassam Watan Initiative, calling for site specific sculptures for Tharwa Sea Front or Abu Hadriyah Road in Saudi Arabia, engaging heritage and future ambitions under Vision 2030."
+  },
+  "peter": {
+    "personal": "Favorite color orange. Powerlifting: max paused bench 150 kg, squat 236 kg, deadlift 300 kg, world ranking top 20, divisions 82.5 kg (USPA), 90 kg (USAPL), 83/93 kg (HPF). Greek national champion with 4 national records. Powerlifting coach Nick Michalopoulos (@loadtheheel). Preferred CAD: Rhino 8; Preferred renderer: D5 Render. Born July 4, 2007 (turning 19 on July 4, 2026).",
+    "notes": "Peter is an architecture student and a second year at Tulane University."
+  }
+}

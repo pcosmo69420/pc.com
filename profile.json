@@ -1,0 +1,30 @@
+{
+  "name": "Peter Cosmopoulos",
+  "title": "Architectural Designer",
+  "bio": "Peter is an architect focused on context, craft, natural light, and neoclassicism. He also competes at a world-class level in powerlifting.",
+  "age": 18,
+  "birthday": "July 4, 2026",
+  "turnsAge": 19,
+  "iq": 131,
+  "nationality": "Greek-American",
+  "languages": ["English", "Greek"],
+  "architectureInterests": ["Neoclassicism", "Residential design", "Cultural projects", "Community spaces"],
+  "software": ["Grasshopper 3D", "Altair Solidworks", "Altair Hyperworks", "Autodesk Inventor", "Revit", "Rhino"],
+  "powerlifting": {
+    "team": "Greek national team",
+    "divisions": ["83kg", "93kg"],
+    "records": 4,
+    "ranking": "Top 20 in the world in his division",
+    "lifts": {
+      "squat": "520 lbs",
+      "pausedBench": "330 lbs",
+      "deadlift": "660 lbs",
+      "total": "1510 lbs"
+    }
+  },
+  "goal": "Own his own architecture firm one day",
+  "email": "pcosmopoulos@tulane.edu",
+  "phone": "(314) 634-3162",
+  "skills": ["Architecture Design","Sketching & Diagrams","Revit","Rhino","Physical Modeling","Sustainable Design"],
+  "education": "M.Arch"
+}
