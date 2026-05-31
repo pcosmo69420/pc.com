@@ -1,0 +1,18 @@
+[2026-05-30T01:49:27.771Z] watchdog: starting, will poll http://localhost:3000/api/ask every 8000 ms
+[2026-05-30T01:49:28.300Z] watchdog: api healthy
+[2026-05-30T01:49:36.092Z] watchdog: api healthy
+[2026-05-30T01:49:44.169Z] watchdog: api healthy
+[2026-05-30T01:49:52.026Z] watchdog: api healthy
+[2026-05-30T01:50:00.109Z] watchdog: api healthy
+[2026-05-30T01:50:07.987Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:13.090Z] watchdog: failed to start server
+[2026-05-30T01:50:15.868Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:20.915Z] watchdog: failed to start server
+[2026-05-30T01:50:23.852Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:28.893Z] watchdog: failed to start server
+[2026-05-30T01:50:31.863Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:36.914Z] watchdog: failed to start server
+[2026-05-30T01:50:39.873Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:44.931Z] watchdog: failed to start server
+[2026-05-30T01:50:47.869Z] watchdog: api not responding, starting dev server
+[2026-05-30T01:50:52.916Z] watchdog: failed to start server
