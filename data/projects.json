@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "title": "Sahelian HeatBreaker",
+    "competition": "VELUX Light of Tomorrow 2026",
+    "yearLabel": "Spring 2026",
+    "year": 2026,
+    "desc": "Architectural and environmental response to extreme heat in the Sahel region.",
+    "summary": "Sahelian HeatBreaker is a VELUX Light of Tomorrow 2026 entry that treats extreme heat as a full climatic design problem, combining a biomorphic modular form, locally sourced earth-based materials, layered daylight capture, cross-ventilation, sand filtration, and modular clustering to create a cooler, more durable, and more livable shelter for Sahel communities.",
+    "referenceText": "The Sahelian HeatBreaker project is meant as an architectural and environmental solution to one of the most pressing challenges in the Sahel region: extreme and ever-growing heat caused by climate change. Extreme heat of this level can cause many problems, with the HeatBreaker's main focus being on fixing the increasing vitamin D deficiency caused by Sahel inhabitants escaping indoors all day to avoid the heat. Its objective is not only to provide overall comfort, but also to convert the harshest parts of the climate, like sandstorms, into usable cooling systems that contribute to overall well-being.\n\nThe architectural language of the HeatBreaker draws directly from Sudano-Sahelian traditions, where construction has long relied on earth-based materials such as adobe, acacia wood, doum palm leaf, and thatch, all of which are abundant and can be locally sourced. These materials are not only used because they're present, but also because they are thermally effective at breaking and redistributing heat. The project builds upon this principle, using form, climate, and scientific principles to break heat. The HeatBreaker uses a hierarchy of daylight captures or areas where heat is lessened but vitamin D can still be absorbed. The meshed courtyard acts as a primary daylight capture, where the most vitamin D is absorbed from direct or near-direct solar exposure. The secondary daylight capture is seen in the tightly-woven thatch meshes on the side of the structure, where the heat is broken by the mesh, but vitamin D is still absorbed through either the rising or setting sun when it's weaker. Finally, the tertiary daylight capture is a weave made of doum palm leaf, which shades the area but is thin enough that vitamin D can still be absorbed when in the vicinity.\n\nThe HeatBreaker's form employs a biomorphic geometry that is deliberately designed to disrupt and diffuse solar radiation. Rather than presenting flat surfaces that directly absorb heat, the building uses many curves and folds to redistribute solar load and reduce interior temperature. The building is organized around a central meshed courtyard, a feature rooted in regional architectural traditions, which is used as an inlet for direct sunlight while also connecting the interior rooms. The ramp at the front of the building is designed to increase the longevity of the HeatBreaker, as sandstorms and wind will destroy a flat, vertical wall much quicker than they will an aerodynamic shape like the one used in the ramp.\n\nThe wall and roof construction of the HeatBreaker use a double layer system inspired by the principles of the trombe wall, adapted to local conditions. The outer layer takes the direct hit from the heat, while an air gap between the layers allows for controlled convection. The wall is then connected to a perforated wall, allowing the hot air to vent and leave the second, interior layer of the wall with a much cooler temperature.\n\nVentilation is heavily taken into consideration, as the Sahel experiences very strong winds and harsh sandstorms. The HeatBreaker's design integrates cross ventilation paths that are carefully aligned with prevailing wind directions. To be more specific, the Sahel's Harmattan season (usually November-March) is characterized by extreme winds and frequent sandstorms, coming from the Northeast. To harness these winds and use them as ventilation, the building is oriented Northeast with vents on the exterior ramp to catch and bring the wind into the interior. To minimize sand and dust entering through the exterior vents, the ramp contains a sand filtration system, with pipes designed to filter out sand and dust connecting the vents to the interior. Once inside, the structure utilizes Bernoulli's principle around the interior rooms to accelerate airflow and lower interior temperature.\n\nAn important aspect of the HeatBreaker is its scalability and adaptability. The project is not only a singular building but is meant to be a modular system that can improve quality of life even further. In the configuration show in the HeatBreaker Cluster Airflow, the spacing between units is once again designed around Bernoulli's principle, with the forms creating narrow spaces in between each other that accelerate airflow.\n\nBeyond its technical and environmental functions, the HeatBreaker is meant to regard questions of sustainability and longevity. The project is not meant to use an external form of sustainability or any other external forces but rather reinterprets pre-existing concepts to better fit the harsh and worsening climate of the Sahel, responding to the changing world. In other words, the project challenges the notion that sustainability has to be made of completely new and unused resources and can be applied through already present resources with careful and thorough design.",
+    "details": "The Sahelian HeatBreaker project is meant as an architectural and environmental solution to one of the most pressing challenges in the Sahel region: extreme and ever-growing heat caused by climate change. Extreme heat of this level can cause many problems, with the HeatBreaker’s main focus being on fixing the increasing vitamin D deficiency caused by Sahel inhabitants escaping indoors all day to avoid the heat. Its objective is not only to provide overall comfort, but also to convert the harshest parts of the climate, like sandstorms, into usable cooling systems that contribute to overall well-being.",
+    "materials": ["adobe", "acacia wood", "doum palm leaf", "thatch"],
+    "heroImage": "/Sahelian%20HeatBreaker/Screenshot%202026-05-28%20140421.png",
+    "image": "/Sahelian%20HeatBreaker/Screenshot%202026-05-28%20140421.png",
+    "diagramTabs": [
+      {
+        "label": "Board",
+        "type": "image",
+        "src": "/Sahelian%20HeatBreaker/Sahelian%20HeatBreaker.jpg",
+        "title": "Project board",
+        "body": "The master board combines the concept, major diagrams, and visual language of the HeatBreaker in one overview."
+      },
+      {
+        "label": "Exterior Breakdown",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerExteriorBreakdown2%20%5Bfinal%5D.pdf",
+        "title": "Exterior breakdown",
+        "body": "The exterior system diagram focuses on the shell, geometry, and how the building handles heat on the outside."
+      },
+      {
+        "label": "Interior Breakdown",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerInteriorBreakdown2%20%5Bfinal%5D.pdf",
+        "title": "Interior breakdown",
+        "body": "This diagram explains the interior organization, airflow behavior, and the relationship between rooms and the courtyard."
+      },
+      {
+        "label": "Exploded Axon",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerExplodedAxon2%20%5Bfinal%5D.pdf",
+        "title": "Exploded axonometric",
+        "body": "A structural and spatial exploded view showing the pieces of the HeatBreaker assembly."
+      },
+      {
+        "label": "Cluster Axon",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerClusterAxon%20%5Bfinal%5D.pdf",
+        "title": "Cluster axonometric",
+        "body": "This tab shows how the HeatBreaker scales as a modular cluster and how units relate to one another."
+      },
+      {
+        "label": "Cluster Diagram",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerClusterDia1%20%5Bfinal%5D.pdf",
+        "title": "Cluster diagram",
+        "body": "Spacing, airflow, and environmental relationships are explained in this cluster diagram."
+      },
+      {
+        "label": "Plan",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerPlan%20%5Bfinal%5D.pdf",
+        "title": "Plan",
+        "body": "The plan diagram clarifies circulation, courtyard orientation, and the internal room sequence."
+      },
+      {
+        "label": "Ventilation",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerVentilationDia.pdf",
+        "title": "Ventilation diagram",
+        "body": "This tab documents cross-ventilation paths, wind capture, and movement through the building."
+      },
+      {
+        "label": "Sand Filtration",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerSandFiltrationSystem2%20%5Bfinal%5D.pdf",
+        "title": "Sand filtration system",
+        "body": "A dedicated diagram for the sand filtration strategy protecting the interior from Harmattan conditions."
+      },
+      {
+        "label": "Flow Sim",
+        "type": "image",
+        "src": "/Sahelian%20HeatBreaker/HBR%20flow%20sim%20basic%20%5Blinearrow%20final%5D.png",
+        "title": "Flow simulation",
+        "body": "An airflow simulation showing how air accelerates through the geometry of the HeatBreaker."
+      },
+      {
+        "label": "Typography Flow",
+        "type": "pdf",
+        "src": "/Sahelian%20HeatBreaker/SahelTyp%20flow%20sim%20%5Blinearrow%20final%5D.pdf",
+        "title": "Typographic flow simulation",
+        "body": "A graphic version of the airflow strategy, focused on the visual language of the board itself."
+      },
+      {
+        "label": "Donut",
+        "type": "image",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerPercentageDonut%20%5Bfinal%5D.png",
+        "title": "HeatBreaker percentage donut",
+        "body": "A supporting graphic breaking down the project’s emphasis areas and proportions."
+      },
+      {
+        "label": "Typography Donut",
+        "type": "image",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20SahelTypPercentageDonut%20%5Bfinal%5D.png",
+        "title": "Typography percentage donut",
+        "body": "A companion graphic for the typographic version of the project’s percentage breakdown."
+      },
+      {
+        "label": "SV Render",
+        "type": "image",
+        "src": "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerSVRender%20%5Bfinal%5D.png",
+        "title": "Sectional render",
+        "body": "A rendered view of the HeatBreaker showing the interior atmosphere and spatial massing."
+      }
+    ],
+    "gallery": [
+      "/Sahelian%20HeatBreaker/Sahelian%20HeatBreaker.jpg",
+      "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerExteriorBreakdown2%20%5Bfinal%5D.pdf",
+      "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerInteriorBreakdown2%20%5Bfinal%5D.pdf",
+      "/Sahelian%20HeatBreaker/%5Bfp%5D%20HeatBreakerExplodedAxon2%20%5Bfinal%5D.pdf"
+    ],
+    "sections": [
+      {
+        "title": "Concept",
+        "body": "The architectural language of the HeatBreaker draws directly from Sudano-Sahelian traditions, where construction has long relied on earth-based materials such as adobe, acacia wood, doum palm leaf, and thatch, all of which are abundant and can be locally sourced. These materials are not only used because they're present, but also because they are thermally effective at breaking and redistributing heat. The project builds upon this principle, using form, climate, and scientific principles to break heat."
+      },
+      {
+        "title": "Daylight Captures",
+        "body": "The HeatBreaker uses a hierarchy of daylight captures where heat is lessened but vitamin D can still be absorbed. The meshed courtyard acts as a primary daylight capture, where the most vitamin D is absorbed from direct or near-direct solar exposure. The secondary daylight capture is seen in the tightly-woven thatch meshes on the side of the structure, where the heat is broken by the mesh, but vitamin D is still absorbed through either the rising or setting sun when it is weaker. Finally, the tertiary daylight capture is a weave made of doum palm leaf, which shades the area but is thin enough that vitamin D can still be absorbed when in the vicinity."
+      },
+      {
+        "title": "Form and Structure",
+        "body": "The HeatBreaker’s form employs a biomorphic geometry deliberately designed to disrupt and diffuse solar radiation. Rather than presenting flat surfaces that directly absorb heat, the building uses many curves and folds to redistribute solar load and reduce interior temperature. The building is organized around a central meshed courtyard, rooted in regional architectural traditions, which acts as an inlet for direct sunlight while also connecting the interior rooms. The front ramp improves longevity by giving sandstorms and wind an aerodynamic surface to move across instead of a flat wall."
+      },
+      {
+        "title": "Wall and Roof System",
+        "body": "The wall and roof construction uses a double-layer system inspired by the principles of the trombe wall and adapted to local conditions. The outer layer takes the direct hit from the heat, while an air gap between the layers allows controlled convection. The wall is then connected to a perforated wall, allowing hot air to vent and leave the second interior layer with a much cooler temperature."
+      },
+      {
+        "title": "Ventilation and Sandstorms",
+        "body": "Ventilation is heavily considered, as the Sahel experiences strong winds and harsh sandstorms. The design integrates cross-ventilation paths aligned with prevailing wind directions. During the Harmattan season, winds come from the northeast, so the building is oriented northeast with vents on the exterior ramp to catch and bring wind into the interior. To minimize sand and dust, the ramp contains a sand filtration system with pipes connecting the vents to the interior. Once inside, the structure uses Bernoulli’s principle around the interior rooms to accelerate airflow and lower temperature."
+      },
+      {
+        "title": "Scalability",
+        "body": "The HeatBreaker is meant to be a modular system that can improve quality of life even further. In cluster configurations, the spacing between units is designed around Bernoulli’s principle, with the forms creating narrow spaces in between each other that accelerate airflow."
+      },
+      {
+        "title": "Sustainability",
+        "body": "The project regards sustainability and longevity as reinterpretation rather than replacement. It does not rely on external sustainability as an isolated gesture, but reworks pre-existing concepts to better fit the harsh and worsening climate of the Sahel, responding to the changing world with already present resources and careful design."
+      }
+    ],
+    "highlights": [
+      "Competition entry for VELUX Light of Tomorrow 2026",
+      "Locally sourced earth-based materials",
+      "Three-tier daylight capture strategy",
+      "Biomorphic form for heat diffusion and durability",
+      "Northeast orientation for Harmattan winds",
+      "Modular cluster system for scalability"
+    ],
+    "image": "/Sahelian%20HeatBreaker/Sahelian%20HeatBreaker.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Hiker's Shelter",
+    "yearLabel": "Spring 2026",
+    "year": 2022,
+    "desc": "A theoretical hiker's shelter on the Bayou State Trail (Louisiana).",
+    "details": "A conceptual design for a hiker's shelter located along the Bayou State Trail in Louisiana. The project responds to flood-prone conditions, wetland ecology, and local craft, using lightweight modular components and raised platforms to minimize footprint while providing shelter, rest, and interpretive space for trail users.",
+    "image": "/Hiker's%20Shelter/HSexploded%20axon%20print.pdf2.jpg",
+    "diagramTabs": [
+      {
+        "label": "Exterior Render",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/HSexploded%20axon%20print.pdf2.jpg",
+        "title": "Exterior Render"
+      },
+      {
+        "label": "Interior Render 01",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/HSexploded%20axon%20print.pdf4.jpg3.png",
+        "title": "Interior Render 01"
+      },
+      {
+        "label": "Interior Render 02",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20080927.png",
+        "title": "Interior Render 02"
+      },
+      {
+        "label": "Exploded Axon",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20082155.png",
+        "title": "Exploded Axon"
+      },
+      {
+        "label": "Stylized Site Plan",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20080610.png",
+        "title": "Stylized Site Plan"
+      },
+      {
+        "label": "Stylized Floor Plan",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20080805.png",
+        "title": "Stylized Floor Plan"
+      },
+      {
+        "label": "Stylized Section 01",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20080851.png",
+        "title": "Stylized Section 01"
+      },
+      {
+        "label": "Stylized Section 02",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/Screenshot%202026-04-29%20080819.png",
+        "title": "Stylized Section 02"
+      },
+      {
+        "label": "Site Location",
+        "type": "image",
+        "src": "/Hiker's%20Shelter/HSsitemap.jpg",
+        "title": "Site Location"
+      }
+    ],
+    "gallery": [
+      "/Hiker's%20Shelter/HSexploded%20axon%20print.pdf2.jpg",
+      "/Hiker's%20Shelter/HSexploded%20axon%20print.pdf4.jpg3.png",
+      "/Hiker's%20Shelter/HSsitemap.jpg",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20080610.png",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20080805.png",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20080851.png",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20080819.png",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20080927.png",
+      "/Hiker's%20Shelter/Screenshot%202026-04-29%20082155.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Work Done By Hand",
+    "year": 2026,
+    "desc": "A hand-drawn study focused on perspective, modeling, and presentation.",
+    "details": "This project presents a set of hand drawings and model studies, with Columns as the master image and the supporting drawings displayed below.",
+    "image": "/Hand%20Drawings/columns.png",
+    "diagramTabs": [
+      {
+        "label": "One-Point Perspective Drawing",
+        "type": "image",
+        "src": "/Hand%20Drawings/1%20point%20perspective.png",
+        "title": "One-Point Perspective Drawing"
+      },
+      {
+        "label": "Two-Point Perspective Drawing",
+        "type": "image",
+        "src": "/Hand%20Drawings/2%20point%20perspective.png",
+        "title": "Two-Point Perspective Drawing"
+      },
+      {
+        "label": "Concept House Sketch",
+        "type": "image",
+        "src": "/Hand%20Drawings/Screenshot%202026-05-29%20012659.png",
+        "title": "Concept House Sketch"
+      },
+      {
+        "label": "Conceptual Cenotaph Floor Plan",
+        "type": "image",
+        "src": "/Hand%20Drawings/Screenshot%202026-05-29%20012824.png",
+        "title": "Conceptual Cenotaph Floor Plan"
+      },
+      {
+        "label": "Conceptual Cenotaph Model",
+        "type": "group",
+        "title": "Conceptual Cenotaph Model",
+        "thumbnail": "/Hand%20Drawings/Model%20photo1.png",
+        "src": "/Hand%20Drawings/Model%20photo1.png",
+        "images": [
+          "/Hand%20Drawings/Model%20photo1.png",
+          "/Hand%20Drawings/model%20photo2.png"
+        ],
+        "body": "Two related model photographs are paired together here so they open as one side-by-side enlargement."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kalamos Project (coming soon)",
+    "year": 2026,
+    "desc": "Project materials and visuals will be added soon.",
+    "details": "Kalamos Project is currently in development and will be published here once finalized.",
+    "image": "/kalamos%20project/Screenshot%202026-05-28%20135934.png"
+  },
+  {
+    "id": 5,
+    "title": "Mujassam Watan Urban Sculpture Challenge (coming soon)",
+    "year": 2026,
+    "desc": "Project materials and visuals will be added soon.",
+    "details": "This challenge entry is in progress and will be published here soon.",
+    "image": "/mujassam%20watan%20urban%20sculpture/1.1.jpg"
+  }
+]
